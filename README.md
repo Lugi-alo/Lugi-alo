@@ -18,11 +18,11 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lugi-alo&theme=tokyonight&hide_border=false">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lugi-alo&theme=default&hide_border=false">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lugi-alo&theme=default&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lugi-alo&theme=default&hide_border=false" alt="GitHub Streak Stats" height="100"/>
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lugi-alo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lugi-alo&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lugi-alo&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lugi-alo&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="100"/>
     </picture>
 </div>
