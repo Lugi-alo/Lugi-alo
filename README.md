@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lugi-alo 👋</h1>
+<h1 align="center">Hi there, I'm Elizabeth 👋</h1>
 
 <p align="center">
     <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="c#" width="45" height="45"/>
